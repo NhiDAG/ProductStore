@@ -13,7 +13,7 @@ namespace Repositories
         void SaveProduct(Product p);
         void DeleteProduct(Product p);
         void UpdateProduct(Product p);
-        ObservableCollection<Product> GetProducts();    
+        IEnumerable<Product> GetProducts();    
         Product GetProductById(int id);
     }
 }

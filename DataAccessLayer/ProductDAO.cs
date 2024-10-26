@@ -13,16 +13,15 @@ namespace DataAccessLayer
     {
         //private static ProductDAO instance = null;
         //private static readonly object instanceLock = new object();
-        public static ObservableCollection<Product> listProducts;
+        public static IEnumerable<Product> listProducts;
 
-        public static ObservableCollection<Product> GetProducts()
+        public static IEnumerable<Product> GetProducts()
         {
-            var listProducts = new ObservableCollection<Product>();
+            IEnumerable<Product> listProducts = null;
             try
             {
                 using var db = new ProductStore();
-                var products = db.Products.ToList();
-                listProducts = new ObservableCollection<Product>(products);
+                listProducts = db.Products.ToList();
             }
             catch (Exception ex)
             {

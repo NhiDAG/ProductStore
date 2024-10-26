@@ -16,3 +16,4 @@ D:\_FPT_\Csharp from VS22\ProductStore\DataAccessLayer\obj\Debug\net8.0\DataAcce
 D:\_FPT_\Csharp from VS22\ProductStore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
 D:\_FPT_\Csharp from VS22\ProductStore\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
 D:\_FPT_\Csharp from VS22\ProductStore\DataAccessLayer\bin\Debug\net8.0\appsettings.json
+D:\_FPT_\Csharp from VS22\ProductStore\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json

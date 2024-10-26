@@ -10,6 +10,6 @@ namespace Repositories
 {
     public interface ICategoryRepository
     {
-        ObservableCollection<Category> GetCategories();
+        IEnumerable<Category> GetCategories();
     }
 }

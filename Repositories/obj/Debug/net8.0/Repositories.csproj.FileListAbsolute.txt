@@ -18,3 +18,4 @@ D:\_FPT_\Csharp from VS22\ProductStore\Repositories\bin\Debug\net8.0\DataAccessL
 D:\_FPT_\Csharp from VS22\ProductStore\Repositories\bin\Debug\net8.0\BussinessObjects.pdb
 D:\_FPT_\Csharp from VS22\ProductStore\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
 D:\_FPT_\Csharp from VS22\ProductStore\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\_FPT_\Csharp from VS22\ProductStore\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json

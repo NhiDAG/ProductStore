@@ -11,6 +11,6 @@ namespace Repositories
 {
     public class CategoryRepository : ICategoryRepository
     {
-        public ObservableCollection<Category> GetCategories() => CategoryDAO.GetCategories();
+        public IEnumerable<Category> GetCategories() => CategoryDAO.GetCategories();
     }
 }

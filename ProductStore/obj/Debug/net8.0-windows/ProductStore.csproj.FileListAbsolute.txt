@@ -147,3 +147,4 @@ D:\_FPT_\Csharp from VS22\ProductStore\ProductStore\bin\Debug\net8.0-windows\Rep
 D:\_FPT_\Csharp from VS22\ProductStore\ProductStore\bin\Debug\net8.0-windows\BussinessObjects.pdb
 D:\_FPT_\Csharp from VS22\ProductStore\ProductStore\bin\Debug\net8.0-windows\DataAccessLayer.pdb
 D:\_FPT_\Csharp from VS22\ProductStore\ProductStore\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\_FPT_\Csharp from VS22\ProductStore\ProductStore\obj\Debug\net8.0-windows\ProductStore.sourcelink.json

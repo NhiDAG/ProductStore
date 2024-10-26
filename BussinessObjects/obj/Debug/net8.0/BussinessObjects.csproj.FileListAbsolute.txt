@@ -12,3 +12,4 @@ D:\_FPT_\Csharp from VS22\ProductStore\BussinessObjects\obj\Debug\net8.0\refint\
 D:\_FPT_\Csharp from VS22\ProductStore\BussinessObjects\obj\Debug\net8.0\BussinessObjects.pdb
 D:\_FPT_\Csharp from VS22\ProductStore\BussinessObjects\obj\Debug\net8.0\BussinessObjects.genruntimeconfig.cache
 D:\_FPT_\Csharp from VS22\ProductStore\BussinessObjects\obj\Debug\net8.0\ref\BussinessObjects.dll
+D:\_FPT_\Csharp from VS22\ProductStore\BussinessObjects\obj\Debug\net8.0\BussinessObjects.sourcelink.json

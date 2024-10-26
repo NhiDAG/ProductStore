@@ -11,13 +11,12 @@ namespace DataAccessLayer
 {
     public class CategoryDAO
     {
-        public static ObservableCollection<Category> GetCategories()
+        public static IEnumerable<Category> GetCategories()
         {
-            var listCategories = new ObservableCollection<Category>();
+            IEnumerable<Category> listCategories = null;
             try {
                 using var context = new ProductStore();
-                var categories = context.Categories.ToList();
-                listCategories = new ObservableCollection<Category>(categories);
+                listCategories = context.Categories.ToList();
             }
             catch (Exception ex)
             {
@@ -25,5 +24,7 @@ namespace DataAccessLayer
             }
             return listCategories;
         }
+
+
     }
 }
